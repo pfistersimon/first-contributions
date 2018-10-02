@@ -9,6 +9,7 @@
 - [Divyanshi Mangal](https://github.com/divyanshidm)
 - [Christy Oommen Varghese](https://github.com/christyoommenvarghese)
 - [Sahan Monaara](https://github.com/SahanMonaara)
+- [simon pfister](https://github.com/pfistersimon?tab=repositories)
 - [Samith Basnayaka](https://github.com/SamithDB)
 - [Yogesh](https://github.com/yog24esh)
 - [Ritwik Sharma](https://github.com/ritrage)
